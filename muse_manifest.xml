@@ -1,0 +1,60 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="site1.com" resolutions="1x" timestamp="1536056909872">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="yes.css" crc="422528900" ref="yes"/>
+    <file name="index.css" crc="93023131" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="407787089857473.jpg" crc="160456512" seo="true" mt="1535890638000"/>
+    <file name="food___drinks_bright_tropical_cocktails_with_straws_098105_-1000x600.jpg" crc="250807235" seo="true" mt="1535890688000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:yes"/>
+    <file name="museutils.js" crc="340535759" ref="index:yes"/>
+    <file name="whatinput.js" crc="86476730" ref="index:yes"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:yes"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:yes"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:yes"/>
+    <file name="require.js" crc="7928878" ref="index:yes"/>
+  </folder>
+  <folder name="images">
+    <file name="food___drinks_bright_tropical_cocktails_with_straws_098105_-1000x600.jpg" crc="250807235" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u149-6.png" crc="31002725" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:yes"/>
+    <file name="u161_states.png" crc="3899891303" ref="index"/>
+    <file name="u161_states-r.png" crc="4015199829" ref="index"/>
+    <file name="u161_states-m.png" crc="4015199829" ref="index"/>
+    <file name="цельo.jpg" crc="4096016916" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="шест.jpg" crc="471626824" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="смайлo.jpg" crc="4146345240" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="60725c61875a5d425973353b8979f699ea78dca75f07368e320df4776f2c1579_facebook.jpg" crc="4152357263" ref="index:yes">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u237-4.png" crc="50541410" ref="index"/>
+    <file name="u249_states.png" crc="500160982" ref="index"/>
+    <file name="u249_states-r.png" crc="4174563993" ref="index"/>
+    <file name="u249_states-m.png" crc="4174563993" ref="index"/>
+    <file name="master.png" crc="4041133094" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ym.png" crc="4111152265" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cd1cc03a22b0745b3fd85c9122ac0e29_.jpg" crc="4156904259" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u421_states.png" crc="256332630" ref="yes"/>
+    <file name="u421_states-r.png" crc="3763194755" ref="yes"/>
+    <file name="u421_states-m.png" crc="3763194755" ref="yes"/>
+  </folder>
+  <file name="index.html" crc="4113649588" seo="true" mt="1536056724097" redirect="true"/>
+  <file name="yes.html" crc="307414681" seo="true" mt="1535905124217" redirect="true"/>
+</manifest>
